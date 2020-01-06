@@ -1,0 +1,5 @@
+vscode:
+  extensions:
+    - ms-vscode.Go@0.12.0:MiHQpdACfrqT7FyKPsfs/Q==
+image:
+  file: .gitpod.Dockerfile
